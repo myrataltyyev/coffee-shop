@@ -1,0 +1,18 @@
+C:\Users\Myrat\source\repos\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.FormMain.resources
+C:\Users\Myrat\source\repos\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.GenerateResource.cache
+C:\Users\Myrat\source\repos\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe.config
+C:\Users\Myrat\source\repos\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe
+C:\Users\Myrat\source\repos\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.pdb
+C:\Users\Myrat\source\repos\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Properties.Resources.resources
+C:\Users\Myrat\source\repos\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.CoreCompileInputs.cache
+C:\Users\Myrat\source\repos\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.exe
+C:\Users\Myrat\source\repos\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.pdb
+C:\Users\Myrat\source\repos\Coffee Shop\Coffee Shop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Myrat\source\repos\Coffee Shop\Coffee Shop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Myrat\source\repos\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.CopyComplete
+C:\Users\Myrat\source\repos\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.AddForm.resources
+C:\Users\Myrat\source\repos\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.IngredientsForm.resources
+C:\Users\Myrat\source\repos\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.UpdateForm.resources
+C:\Users\Myrat\source\repos\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.AdminForm.resources
+C:\Users\Myrat\source\repos\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.LoginForm.resources
+C:\Users\Myrat\source\repos\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csprojAssemblyReference.cache

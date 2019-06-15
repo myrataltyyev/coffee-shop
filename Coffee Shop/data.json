@@ -1,0 +1,108 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "name": "Espresso",
+      "category": "Hot coffee",
+      "price": "17 TL",
+      "ingredients": "1 Shot of espresso in an espresso cup",
+      "image": "C:\\Users\\Myrat\\source\\repos\\Coffee Shop\\Coffee Shop\\Images\\coffee1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Double Espresso",
+      "category": "Hot coffee",
+      "price": "16 TL",
+      "ingredients": "2 shots of espresso in an espresso cup",
+      "image": "C:\\Users\\Myrat\\source\\repos\\Coffee Shop\\Coffee Shop\\Images\\no.png"
+    },
+    {
+      "id": "3",
+      "name": "Macchiato",
+      "category": "Hot coffee",
+      "price": "15.5 TL",
+      "ingredients": "1 Shot of espresso in a short glass or espresso cup. A dollop of steamed milk and foam placed on top of the espresso",
+      "image": "C:\\Users\\Myrat\\source\\repos\\Coffee Shop\\Coffee Shop\\Images\\coffee4.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Americano",
+      "category": "Hot coffee",
+      "price": "14 TL",
+      "ingredients": "Fill a cup with 2/3rds full of hot water. Extract 1 shot of espresso over the hot water",
+      "image": "C:\\Users\\Myrat\\source\\repos\\Coffee Shop\\Coffee Shop\\Images\\no.png"
+    },
+    {
+      "id": "5",
+      "name": "Café Latte",
+      "category": "Hot coffee",
+      "price": "13.5 TL",
+      "ingredients": "Extract 1 shot of espresso into a tumbler glass• Add steamed milk. 1cm of micro-foam on top of the steamed milk",
+      "image": "C:\\Users\\Myrat\\source\\repos\\Coffee Shop\\Coffee Shop\\Images\\no.png"
+    },
+    {
+      "id": "6",
+      "name": "Cappuccino",
+      "category": "Hot coffee",
+      "price": "16 TL",
+      "ingredients": "Extract 1 shot of espresso into a cup• Add steamed milk. Add 2-3cm of micro-foam on top of the steamed milk. Sprinkle chocolate on top of the coffee",
+      "image": "C:\\Users\\Myrat\\source\\repos\\Coffee Shop\\Coffee Shop\\Images\\no.png"
+    },
+    {
+      "id": "7",
+      "name": "Mocha",
+      "category": "Hot coffee",
+      "price": "15.5 TL",
+      "ingredients": "Extract 1 shot of espresso into a cup. Add one spoon of chocolate powder into the espresso shot and mix. Add steamed milk. Add 2-3cm of micro-foam. Sprinkle chocolate powder on top",
+      "image": "C:\\Users\\Myrat\\source\\repos\\Coffee Shop\\Coffee Shop\\Images\\no.png"
+    },
+    {
+      "id": "8",
+      "name": "Frappe",
+      "category": "Cold coffee",
+      "price": "17 TL",
+      "ingredients": "2 tsp instant coffee powder, 2 tsp sugar, 1 tbsp cold water, 1 cup cold water or cold milk",
+      "image": "C:\\Users\\Myrat\\source\\repos\\Coffee Shop\\Coffee Shop\\Images\\no.png"
+    },
+    {
+      "id": "9",
+      "name": "Mocha Cola",
+      "category": "Cold coffee",
+      "price": "17 TL",
+      "ingredients": "1 cup very strong brewed coffee, 12 oz. can of cola, 3 cups chocolate milk, Ice cubes divided between 4 chilled glasses, Whipped cream or vanilla ice cream, for topping",
+      "image": "C:\\Users\\Myrat\\source\\repos\\Coffee Shop\\Coffee Shop\\Images\\no.png"
+    },
+    {
+      "id": "10",
+      "name": "Coconut Iced Coffee",
+      "category": "Cold coffee",
+      "price": "18 TL",
+      "ingredients": "5 oz strongly brewed coffee, 1/3 cup coconut sweetened condensed milk, 1/2 tsp vanilla extract, 2-3 tbsp coconut milk, coffee cubes, coconut whipped cream, 1 tbsp toasted coconut, 2 tbsp chocolate sauce",
+      "image": "C:\\Users\\Myrat\\source\\repos\\Coffee Shop\\Coffee Shop\\Images\\no.png"
+    },
+    {
+      "id": "11",
+      "name": "Hot Mulled Ginger-Spiced Cider",
+      "category": "Non-coffee drinks",
+      "price": "13 TL",
+      "ingredients": "Cloves, orange rind, allspice, cinnamon, apple jelly, nutmeg, and zesty fresh ginger",
+      "image": "C:\\Users\\Myrat\\source\\repos\\Coffee Shop\\Coffee Shop\\Images\\no.png"
+    },
+    {
+      "id": "12",
+      "name": "Donut Muffins",
+      "category": "Pastries",
+      "price": "18 TL",
+      "ingredients": "⅓ cup unsalted butter, softened to room temperature, ½ cup granulated sugar, 1 large egg, 1 teaspoon vanilla extract, ½ cup milk, 1½ cups white whole wheat flour (or all-purpose flour), 1½ teaspoon baking powder, ½ teaspoon ground cinnamon, ½ teaspoon salt, 3 tablespoons unsalted butter, ¾ cup powdered sugar",
+      "image": "C:\\Users\\Myrat\\source\\repos\\Coffee Shop\\Coffee Shop\\Images\\no.png"
+    },
+    {
+      "id": "13",
+      "name": "Cake Donuts",
+      "category": "Pastries",
+      "price": "19.5 TL",
+      "ingredients": "1½ cups flour\r\n1½ teaspoons baking powder\r\n½ teaspoon salt\r\n½ teaspoon nutmeg\r\n½ cup brown sugar\r\n4 tablespoons unsalted butter, cold and cubed\r\n1 egg\r\n½ cup 2 percent low-fat milk\r\n½ cup frozen blueberries",
+      "image": "C:\\Users\\Myrat\\source\\repos\\Coffee Shop\\Coffee Shop\\Images\\no.png"
+    }
+  ]
+}
